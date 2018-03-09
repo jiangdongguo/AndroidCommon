@@ -1,9 +1,7 @@
-package com.jiangdg.common;
+package com.jiangdg.common.utils;
 
 import android.app.Activity;
 import android.util.Log;
-
-import com.jiangdg.common.utils.GlobalDebug;
 
 import java.util.Stack;
 

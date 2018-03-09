@@ -7,8 +7,6 @@ import android.content.Intent;
 import android.content.pm.PackageInfo;
 import android.content.pm.PackageManager;
 
-import com.jiangdg.common.ActivityStackManager;
-
 /**
  * APP管理工具类
  * Created by jiangdongguo on 2018/2/24.
